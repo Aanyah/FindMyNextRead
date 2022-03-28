@@ -9,4 +9,4 @@ SO THAT I can keep a list of books to purchase
 ### Link
 https://nxtread.herokuapp.com/
 
-![image](assets/Google Book Search.png)
+![image](assets/GoogleBookSearch.png)
